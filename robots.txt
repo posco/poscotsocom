@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://web.poscotso.com/al-folio/sitemap.xml
+Sitemap: https://web.poscotso.com/sitemap.xml
