@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://web.poscotso.com/sitemap.xml
+Sitemap: https://www.poscotso.com/sitemap.xml
