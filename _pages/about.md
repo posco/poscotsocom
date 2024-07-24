@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: A computer scientist and a DevOps engineer
+subtitle: 
 
 profile:
   align: right
@@ -13,14 +13,21 @@ profile:
     <p>Haslegrave Building</p>
     <p>Loughborough University</p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here~~. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Reader in Computer Networks and Systems in the Department of Computer Science at the Loughborough University. I am currently researching in the areas of network service composition and chaining, edge computing, stateful programmable data plane and network resource management.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research has been mainly funded by The Engineering and Physical Sciences Research Council (EPSRC) and Innovate UK include:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- IoDT<sup>2</sup>: Internet of Digital Twin Things, 05/2024-04/2027, €2,682.2K
+- 5G-IoTNet: Enabling Seamless Federation of 5G and IoT Networks, 04/2024-03/2025, £1,004,204
+- Serverless Edge Computing for 5G Edge Devices, 11/2022-05/2024, £499,223
+- IEoT: Intelligent Edge of Things, 07/2020-06/2022, £972,750
+- SYNC: Synergistic Network Policy Management for Cloud Data Centres, 4/2017-3/2018. http://www.sync-project.com, £100,786
+- Fruit: The Federated Raspberry Pi Micro-infrastructure Testbed, 1/2017-12/2018. £909,548
+
+I am accepting self-funded PhD student applications (including CSC studentship). If you’re interested in doing a PhD with me, please get in touch!
