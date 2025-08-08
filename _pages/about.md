@@ -19,10 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am Reader in Computer Networks and Systems in the Department of Computer Science at the Loughborough University. I am currently researching in the areas of network service composition and chaining, edge computing, stateful programmable data plane and network resource management.
+I am Professor in Computer Networks and Systems in the Department of Computer Science at Loughborough University. I am currently researching areas including stateful programmable data plane, in-network computing, in-network intelligence, network service composition and chaining, edge computing, edge intelligence.
 
-My research has been mainly funded by The Engineering and Physical Sciences Research Council (EPSRC) and Innovate UK include:
+My research has been mainly funded by The Engineering and Physical Sciences Research Council (EPSRC) and Innovate UK, including:
 
+- VISION: Virtual Integrated Supply-chain Improvement with Optimized Networking, 07/2025-06/2028, €3,852.8K
 - IoDT<sup>2</sup>: Internet of Digital Twin Things, 05/2024-04/2027, €2,682.2K
 - 5G-IoTNet: Enabling Seamless Federation of 5G and IoT Networks, 04/2024-03/2025, £1,004,204
 - Serverless Edge Computing for 5G Edge Devices, 11/2022-05/2024, £499,223
