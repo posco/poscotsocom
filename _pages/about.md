@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am Professor in Computer Networks and Systems in the Department of Computer Science at Loughborough University. I am currently researching areas including stateful programmable data plane, in-network computing, in-network intelligence, network service composition and chaining, edge computing, edge intelligence.
+I am Professor in Computer Networks and Systems in the Department of Computer Science at Loughborough University. I am currently researching in the areas of computer networks and systems including stateful programmable data plane, in-network computing, in-network intelligence, network service composition and chaining, edge computing, edge intelligence.
 
 My research has been mainly funded by The Engineering and Physical Sciences Research Council (EPSRC) and Innovate UK, including:
 
